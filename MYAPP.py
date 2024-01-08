@@ -17,5 +17,5 @@ with col3:
   st.write("Made in thirupathi")
 with col4:
   st.subheader("Pulihora raja's pulihora ")
-  st.image("./krishna.png", caption="Pulihora", width=300, height=400, use_column_width=True)
+  st.image("./krishna.png", caption="Pulihora", width=300, use_column_width=True)
   st.write("Made by Pulihora")
