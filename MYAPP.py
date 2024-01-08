@@ -11,7 +11,7 @@ with col2:
   st.subheader("chinthapandu pulihora")
   st.image("./tamarind.jpeg", caption="Ragdoll Cat", width=300,use_column_width=True)
   st.write("Made with chinthakai")
-  with col3:
+with col3:
   st.subheader("thiruapathi Pulihora")
   st.image("./thirupathi.jpg", caption="Persian Cat", width=300,use_column_width=True)
   st.write("Made in thirupathi")
